@@ -1,4 +1,4 @@
-<img src="learn-bash.jpg" alt="Learn Bash"/>
+<img src="learn-bash.png" alt="Learn Bash"/>
 
 1. **Basic Bash Script Automation**  
    Create a script that backs up a specified directory to a backup location.
